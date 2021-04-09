@@ -1,0 +1,1 @@
+'use strict';(function(){const a={cache:!0};a.doc={id:'id',field:['title','content'],store:['title','href','section']};const b=FlexSearch.create('balance',a);window.bookSearchIndex=b,b.add({id:0,href:'/',title:"Index",section:"My New Hugo Site",content:"Tarzan\r#\r\r Huo Chuangchuang\nMachine Learning\n "})})()
